@@ -1,0 +1,6 @@
+com\syn\model\Loan.class
+com\syn\controller\LoansController.class
+com\syn\dao\LoansDAO.class
+com\syn\sevice\impl\LoansServiceImpl.class
+com\syn\sevice\LoansService.class
+com\syn\LoanDemoApplication.class
